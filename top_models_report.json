@@ -1,0 +1,42 @@
+[
+    {
+        "modelId": "google-bert/bert-base-uncased",
+        "downloads": 58539536
+    },
+    {
+        "modelId": "distilbert/distilbert-base-uncased",
+        "downloads": 20309771
+    },
+    {
+        "modelId": "openai-community/gpt2",
+        "downloads": 14254819
+    },
+    {
+        "modelId": "FacebookAI/roberta-base",
+        "downloads": 10639407
+    },
+    {
+        "modelId": "FacebookAI/roberta-large",
+        "downloads": 10154357
+    },
+    {
+        "modelId": "FacebookAI/xlm-roberta-large",
+        "downloads": 7028816
+    },
+    {
+        "modelId": "FacebookAI/xlm-roberta-base",
+        "downloads": 6168941
+    },
+    {
+        "modelId": "distilbert/distilbert-base-uncased-finetuned-sst-2-english",
+        "downloads": 5966207
+    },
+    {
+        "modelId": "google-bert/bert-base-multilingual-cased",
+        "downloads": 4762726
+    },
+    {
+        "modelId": "google-bert/bert-base-cased",
+        "downloads": 4693346
+    }
+]
