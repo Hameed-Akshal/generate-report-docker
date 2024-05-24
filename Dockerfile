@@ -1,5 +1,5 @@
 # Use a temporary Python image to install dependencies
-FROM python:3.9-slim AS build
+FROM python:3.9-slim 
 
 # Set the working directory
 WORKDIR /app
